@@ -22,10 +22,10 @@ COUNTRY = "🇮🇳"
 ![Lᴀɴɢᴜᴀɢᴇs ᴜsᴇᴅ ᴍᴏsᴛʟʏ](https://github-readme-stats.vercel.app/api/top-langs/?username=madboy482&layout=compact&theme=radical)](https://github.com/madboy482)
 
 ### Sᴏᴍᴇ ᴄᴏᴏʟ Rᴇᴘᴏsɪᴛᴏʀʏs :-
-➥ ![Rᴏᴍᴇᴏ](https://github.com/madboy482/Romeo)
+➥ <a href="https://github.com/madboy482/Romeo" alt="Rᴏᴍᴇᴏ"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Romeo-blue" /> </a>
 
-➥ ![Rᴏᴍᴇᴏ-3.0](https://github.com/madboy482/MadBoi)
+➥ <a href="https://github.com/madboy482/MadBoi" alt="Rᴏᴍᴇᴏ-3.0"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Romeo-3.0-blue" /> </a>
 
-➥ ![Tᴇʟᴇɢʀᴀᴘʜ Uᴘʟᴏᴀᴅᴇʀ](https://github.com/madboy482/Telegraph-Uploader)
+➥ <a href="https://github.com/madboy482/Telegraph-Uploader" alt="Tᴇʟᴇɢʀᴀᴘʜ Uᴘʟᴏᴀᴅᴇʀ"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Telegraph Uploader-blue" /> </a>
 
-➥ ![PᴏᴋᴇDᴇx](https://github.com/madboy482/Rotom-2.0)
+➥ <a href="https://github.com/madboy482/rotom-2.0" alt="PᴏᴋᴇDᴇx"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-PokeDex-blue" /> </a>

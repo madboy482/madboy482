@@ -8,7 +8,7 @@ AGE = "16"
 COUNTRY = "🇮🇳"
 ```
 
-[![Telegram badge](https://img.shields.io/badge/@Warning_MadBoy_is_Here-30302f?style=for-the-badge&logo=telegram)](https://telegram.me/Warning_MadBoy_is_Here)
+[![Telegram badge](https://img.shields.io/badge/@Warning_MadBoy_is_Back-30302f?style=for-the-badge&logo=telegram)](https://telegram.me/Warning_MadBoy_is_Back)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madboy482&label=Profile%20Views&color=orange&style=flat-square" alt="MadBoy" /> </p>
 
@@ -29,3 +29,5 @@ COUNTRY = "🇮🇳"
 ➥ <a href="https://github.com/madboy482/Telegraph-Uploader" alt="Tᴇʟᴇɢʀᴀᴘʜ Uᴘʟᴏᴀᴅᴇʀ"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Tᴇʟᴇɢʀᴀᴘʜ Uᴘʟᴏᴀᴅᴇʀ-blue" /> </a>
 
 ➥ <a href="https://github.com/madboy482/rotom-2.0" alt="PᴏᴋᴇDᴇx"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-PᴏᴋᴇDᴇx-blue" /> </a>
+
+### Closed Above Projects... ;-;

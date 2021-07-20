@@ -21,6 +21,8 @@ COUNTRY = "🇮🇳"
 [![MᴀᴅBᴏʏ Gɪᴛʜᴜʙ Sᴛᴀᴛs](https://github-readme-stats.vercel.app/api?username=madboy482&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/madboy482)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madboy482&layout=compact&theme=radical)](https://github.com/madboy482)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MadBoy482&show_icons=true&locale=en&langs_count=15&theme=tokyonight" alt="MadBoy482" /></p>
+
 ### Sᴏᴍᴇ ᴄᴏᴏʟ Rᴇᴘᴏsɪᴛᴏʀʏs :-
 ➥ <a href="https://github.com/madboy482/Romeo" alt="Rᴏᴍᴇᴏ"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Rᴏᴍᴇᴏ-blue" /> </a>
 

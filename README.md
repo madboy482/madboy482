@@ -10,7 +10,7 @@ COUNTRY = "🇮🇳"
 
 [![Telegram badge](https://img.shields.io/badge/@Warning_MadBoy_is_Back-30302f?style=for-the-badge&logo=telegram)](https://telegram.me/Warning_MadBoy_is_Back)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madboy482&label=Profile%20Views&color=orange&style=flat-square" alt="MadBoy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madboy482&label=Profile%20Views&color=orange&style=flat-square" alt="MadBoy"> </p>
 
 ➥ 😄 I'ᴍ sᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ Gɪᴛ ᴀɴᴅ Gɪᴛʜᴜʙ...
 
@@ -19,7 +19,7 @@ COUNTRY = "🇮🇳"
 <h4 align="center"><b>💛Mʏ Gɪᴛʜᴜʙ Sᴛᴀᴛs💛</b></h4>
 
 [![MᴀᴅBᴏʏ Gɪᴛʜᴜʙ Sᴛᴀᴛs](https://github-readme-stats.vercel.app/api?username=madboy482&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/madboy482)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madboy482&layout=compact&theme=radical)](https://github.com/madboy482)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madboy482&theme=midnight-purple)](https://github.com/madboy482)
 
 ### Sᴏᴍᴇ ᴄᴏᴏʟ Rᴇᴘᴏsɪᴛᴏʀʏs :-
 ➥ <a href="https://github.com/madboy482/Romeo" alt="Rᴏᴍᴇᴏ"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Rᴏᴍᴇᴏ-blue" /> </a>

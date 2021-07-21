@@ -1,6 +1,6 @@
 # 𝑯𝒆𝒚𝒚 !! 𝑯𝒊 !!
 
-<p align='Left'><a href='https://telegram.me/Warning_MadBoy_is_Back'><img src='https://telegra.ph/file/67c5a395421a28ee7f38c.png' width='500"'></a></p>
+<p align='Middle'><a href='https://telegram.me/Warning_MadBoy_is_Back'><img src='https://telegra.ph/file/67c5a395421a28ee7f38c.png' width='500"'></a></p>
 
 <details>
 <summary>About Me 💞</summary>

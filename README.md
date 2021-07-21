@@ -30,7 +30,7 @@
 
 <details>
   <summary>My Tools ⚙️</summary>
-  <p align='middle'><img src='' width='300"' height='300"'></p><p align ="middle">
+  <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=madboy482&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
   <br />
   <code><img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>

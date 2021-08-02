@@ -16,7 +16,7 @@
     <b><i>
       CLASS         »»
       </b></i> 
-    XI
+    XI<sup>th</sup>
   </p>
   <p align='middle'>
     <b><i>
@@ -35,7 +35,14 @@
       TELEGRAM ACC  »»
       </b></i> 
     <a href="https://telegram.me/Warning_MadBoy_is_Back" alt="MadBoy"> <img src="https://img.shields.io/badge/MADBOY-dcdcdc?logo=telegram"
-/></a>
+                                                                            /></a>
+  </p>
+  <p align='middle'>
+    <b><i>
+      2<sup>nd</sup> GIT ACC  »» 
+      </b></i>
+    <a href="https://telegram.me/MadBoy482-X" alt="MadBoy482-X"> <img src="https://img.shields.io/badge/MadBoy482 X-33FFC1?logo=github"
+                                                                      /></a>
   </p>
 </details>
 

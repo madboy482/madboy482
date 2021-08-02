@@ -41,7 +41,7 @@
     <b><i>
       2<sup>nd</sup> GIT ACC  »» 
       </b></i>
-    <a href="https://telegram.me/MadBoy482-X" alt="MadBoy482-X"> <img src="https://img.shields.io/badge/MadBoy482 X-33FFC1?logo=github"
+    <a href="https://github.com/MadBoy482-X" alt="MadBoy482-X"> <img src="https://img.shields.io/badge/MadBoy482 X-33FFC1?logo=github"
                                                                       /></a>
   </p>
 </details>

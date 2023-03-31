@@ -1,7 +1,7 @@
 <h1><p align='Middle'>нєγ τнєяє 👋</p></h1>
 
 <a href="https://github.com/madboy482">
-  <img align="right" src="https://i.imgflip.com/7glmq9.gif" height=200 width=200/>
+  <img align="right" src="https://i.imgflip.com/7glmq9.gif" height=250 width=250/>
 </a>
 
 - Currently at Learning Stage 🤠

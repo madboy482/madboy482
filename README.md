@@ -1,101 +1,27 @@
-<h1><p align='Middle'>𝑯𝒆𝒚𝒚 !! 𝑯𝒊 !!</p></h1>
+<h1><p align='Middle'>нєγ τнєяє 👋</p></h1>
 
-  
-<p align='Middle'><a href='https://telegram.me/Phoenix_MadBoi'> <img src='https://telegra.ph/file/c21a93c79ca06b3168142.png' width='500"'></a></p>
+<a href="https://github.com/madboy482">
+  <img align="right" src="https://i.imgflip.com/7glmq9.gif" height=200 width=200/>
+</a>
 
+- Currently at Learning Stage 🤠
+- [About me 🤓](#about-me-)
+- [Contact me 🥱](#contact-me-)
 
-<details>
-<summary>About Me 💞</summary>
-  <p align='middle'>
-    <b><i>
-      AGE           »»
-      </b></i> 
-    17
-  </p>
-  <p align='middle'>
-    <b><i>
-      CLASS         »»
-      </b></i> 
-    XII<sup>th</sup>
-  </p>
-  <p align='middle'>
-    <b><i>
-      STATE         »»
-      </b></i> 
-    Haryana
-  </p>
-  <p align='middle'>
-    <b><i>
-      NATIONALITY   »»
-      </b></i> 
-    🇮🇳
-  </p>
-  <p align='middle'>
-    <b><i>
-      TELEGRAM ACC  »»
-      </b></i> 
-    <a href="https://telegram.me/Phoenix_MadBoi" alt="-⏤͟͞Ꮥђαᴅσω´☆"> <img src="https://img.shields.io/badge/-⏤͟͞Ꮥђαᴅσω´☆-dcdcdc?logo=telegram"
-                                                                            /></a>
-  </p>
-  <p align='middle'>
-    <b><i>
-      2<sup>nd</sup> GIT ACC  »» 
-      </b></i>
-    <a href="https://github.com/MadBoy482-X" alt="MadBoy482-X"> <img src="https://img.shields.io/badge/MadBoy482 X-33FFC1?logo=github"
-                                                                      /></a>
-  </p>
-</details>
+## About me 😼
+- 𝔸𝕘𝕖 » 18 ʏ/ᴏ
+- ℕ𝕒𝕥𝕚𝕠𝕟𝕒𝕝𝕚𝕥𝕪 » 🇮🇳
+- 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟 » Cᴜʀʀᴇɴᴛʟʏ ɢɪᴠɪɴɢ Exᴀᴍs ғᴏʀ ᴀɴ Eɴɢɪɴᴇᴇʀɪɴɢ Cᴏʟʟᴇɢᴇ
+- 𝕊𝕥𝕒𝕥𝕖 » Hᴀʀʏᴀɴᴀ
 
 ---
 
-<details>
-<summary>My Stats 📊</summary><p align='middle'>
-  <img src='https://github-readme-stats.vercel.app/api?username=madboy482&show_icons=true&theme=midnight-purple' width='500"'></p>
-  <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=madboy482&theme=midnight-purple&show_icon=true' width='500"'></p> <p
-  align='middle'><img src='https://komarev.com/ghpvc/?username=madboy482&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
-</details>
+## My Tools 🛠️
+[![Tools](https://skillicons.dev/icons?i=py,github,git,heroku,bash,arduino,redis,mongodb,postgres,mysql,firebase,atom,aws,azure,gitlab,visualstudio,vscode,powershell&perline=9)](https://github.com/madboy482)
 
 ---
 
-<details>
-  <summary>Top Languages 🏆</summary>
-  <p align='middle'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=madboy482&theme=midnight-purple' width='300"' height='300"'></p><p align ="middle">
-</details>
+## Stats 📊
+![Metrics](https://metrics.lecoq.io/madboy482?template=classic&isocalendar=1&languages=1&lines=1&habits=1&followup=1&introduction=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction=false&introduction.title=true&config.timezone=Asia%2FCalcutta&config.octicon=true)
 
 ---
-
-<details>
-  <summary>My Tools ⚙️</summary>
-  <p align='middle'>
-    <code><a href="https://git-scm.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a></code>
-    <code><a href="https://www.python.org/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </a></code>
-    <code><a href="https://heroku.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </a></code>
-    <br />
-    <code><a href="https://www.mysql.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a></code>
-    <code><a href="https://redis.io/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </a></code>
-    <code><a href="https://firebase.google.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </a></code>
-    <br />
-    <code><a href="https://www.mongodb.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </a></code>
-    <code><a href="https://github.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </a></code>
-    <code><a href="https://gitlab.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </a></code>
-    <br />
-    <code><a href="https://www.postgresql.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </a></code>
-    <code><a href="https://telegram.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code>
-    <br>
-      </p>  
-</details>
-
----
-
-<details>
-  <summary>Some Cool Repositories 😇</summary><p align='middle'>
-  <a href="https://github.com/MadBoy-X/TeslaRobo" alt="TeslaRobo"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-TᴇsʟᴀRᴏʙᴏ-black" /> </a></p>
-  <p align='middle'>
-    <a href="https://github.com/Andencento/Andencento" alt="Andencento"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Aɴᴅᴇɴᴄᴇɴᴛᴏ-blue" /> </a></p>
-  <p align='middle'>
-    <a href="https://github.com/MadBoy-X/MusicBot" alt="MusicBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Tᴇsʟᴀ MᴜsɪᴄBᴏᴛ-red" /> </a></p>
-  <p align='middle'>
-    <a href="https://github.com/MadBoy-X/SuperBot" alt="SuperBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SᴜᴘᴇʀBᴏᴛ-chrome" /> </a></p>
-  <p align='middle'>
-    <a href="https://github.com/MadBoy-X/SuperBot-Deploy" alt="SuperBot-Deploy"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SᴜᴘᴇʀBᴏᴛ Dᴇᴘʟᴏʏ-yellow" /> </a></p>
-</details>

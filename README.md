@@ -10,7 +10,7 @@
 - [Contact me 🥱](#contact-me-)
 
 <a href="https://github.com/madboy482">
-  <p align="left"><img src="https://komarev.com/ghpvc/?username=madboy482&label=My%20Profile%20Views&color=brightgreen&style=plastic" width=160>
+  <p align="middle"><img src="https://komarev.com/ghpvc/?username=madboy482&label=My%20Profile%20Views&color=brightgreen&style=plastic" width=160>
   </p>
 </a>
   

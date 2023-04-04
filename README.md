@@ -9,6 +9,11 @@
 - [My Stats 🤧](#stats-)
 - [Contact me 🥱](#contact-me-)
 
+<a href="https://github.com/madboy482">
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=madboy482&label=My%20Profile%20Views&color=brightgreen&style=plastic" width=160>
+  </p>
+</a>
+  
 ## About me 😼
 - 𝔸𝕘𝕖 » 18 ʏ/ᴏ
 - ℕ𝕒𝕥𝕚𝕠𝕟𝕒𝕝𝕚𝕥𝕪 » 🇮🇳

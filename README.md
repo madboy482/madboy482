@@ -34,7 +34,7 @@
 
 # Contact me 🤝
 <a href="https://telegram.dog/Invictus_MadBoi" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/telegram.svg" /></a>
-<a href="https://instagram.com/phoenix_madboi" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/instagram.svg" /></a> 
+<a href="https://instagram.com/invictus_madboi" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/instagram.svg" /></a> 
 <a href="https://twitter.com/madboy482" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/twitter.svg" /></a>
 <a href="mailto:madboy482@proton.me" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/protonmail.svg" /></a>
 <a href="mailto:invictusmadboy482@gmail.com" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/gmail.svg" /></a>

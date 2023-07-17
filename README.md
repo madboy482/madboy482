@@ -17,7 +17,7 @@
 ## About me 😼
 - 𝔸𝕘𝕖 » 18 ʏ/ᴏ
 - ℕ𝕒𝕥𝕚𝕠𝕟𝕒𝕝𝕚𝕥𝕪 » 🇮🇳
-- 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟 » Cᴜʀʀᴇɴᴛʟʏ ɢɪᴠɪɴɢ Exᴀᴍs ғᴏʀ ᴀɴ Eɴɢɪɴᴇᴇʀɪɴɢ Cᴏʟʟᴇɢᴇ
+- 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟 » B.Tech. Computer Science and Engineering (First Year)
 - 𝕊𝕥𝕒𝕥𝕖 » Hᴀʀʏᴀɴᴀ
 
 ---

@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm MadBoy! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+# 👋 Hey there, I'm MadBoy! <a href="https://github.com/madboy482"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></a>
 
 <a href="https://github.com/madboy482"><img align="right" src="https://i.imgflip.com/7glmq9.gif" height="250" width="250"/></a>
 

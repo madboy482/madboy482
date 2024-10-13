@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm MadBoy! <a href="https://github.com/madboy482"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></a>
+# 👋🏻 Hey there, I'm MadBoy! <a href="https://github.com/madboy482"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></a>
 
 <a href="https://github.com/madboy482"><img align="right" src="https://i.imgflip.com/7glmq9.gif" height="250" width="250"/></a>
 
@@ -10,7 +10,7 @@
 - 🎓 B.Tech. Computer Science and Engineering at SRM Kattankulathur, Chennai
 - 🌍 Based in Gurgaon, Haryana, India
 - 💻 Preferred Languages: Python
-- 🔗 [madboy482.me](https://madboy482.me)
+- 🔗 [madboy482.me](https://madboy482-portfolio.vercel.app/)
 
 <p align="center">
   <a href="https://github.com/madboy482">

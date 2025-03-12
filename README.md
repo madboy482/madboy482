@@ -1,4 +1,4 @@
-# 👋🏻 Hey there, I'm MadBoy! <a href="https://github.com/madboy482"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></a>
+# 👋🏻 Hey there, I'm MadBoy! <a href="https://github.com/madboy482"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"></a>
 
 <a href="https://github.com/madboy482"><img align="right" src="https://i.imgflip.com/7glmq9.gif" height="250" width="250"/></a>
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Quick Facts
 
-- 19 ʏ/ᴏ [🇮🇳]
+- 20 ʏ/ᴏ [🇮🇳]
 - 🎓 B.Tech. Computer Science and Engineering at SRM Kattankulathur, Chennai
 - 🌍 Based in Gurgaon, Haryana, India
 - 💻 Preferred Languages: Python
@@ -86,6 +86,6 @@ class MadBoy:
 <a href="https://telegram.dog/Invictus_MadBoi" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/telegram.svg" /></a>
 <a href="https://instagram.com/_nalin_.482" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/instagram.svg" /></a> 
 <a href="https://www.linkedin.com/in/nalin-vijayvargiya/" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/linkedin.svg" /></a>
-<a href="https://x.com/madboy482" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/twitter.svg" /></a>
+<a href="https://x.com/madboy_482" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/twitter.svg" /></a>
 <a href="mailto:madboy482@proton.me" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/protonmail.svg" /></a>
 <a href="mailto:invictusmadboy482@gmail.com" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/gmail.svg" /></a>

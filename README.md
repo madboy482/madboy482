@@ -21,7 +21,7 @@
 ---
 
 ## 🛠️ My Toolbox
-[![Tools](https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,react,nodejs,npm,fastapi,django,tensorflow,tailwind,ubuntu,git,heroku,vercel,bash,arduino,redis,mongodb,postgres,mysql,firebase,atom,aws,azure,gitlab,replit,visualstudio,vscode,pycharm,clion,eclipse,powershell&perline=10)](https://github.com/madboy482)
+[![Tools](https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,react,nodejs,npm,tailwind,fastapi,django,tensorflow,flutter,redis,mongodb,postgres,mysql,firebase,aws,azure,heroku,vercel,git,gitlab,replit,visualstudio,vscode,pycharm,clion,eclipse,ubuntu,bash,powershell,arduino,atom&perline=10)](https://github.com/madboy482)
 
 ---
 

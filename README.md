@@ -56,13 +56,16 @@
 
 <div align="center">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=madboy482&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madboy482&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<br/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=madboy482&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=madboy482&theme=radical&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madboy482&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 

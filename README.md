@@ -54,11 +54,22 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madboy482&theme=radical&include_all_commits=true&count_private=true&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madboy482&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madboy482&layout=compact&theme=radical" />
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=madboy482&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=madboy482&theme=radical&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madboy482&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+
+</div>
 
 ---
 

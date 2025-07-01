@@ -2,45 +2,62 @@
 
 <a href="https://github.com/madboy482"><img align="right" src="https://i.imgflip.com/7glmq9.gif" height="250" width="250"/></a>
 
-> A Sophomore, Coding Enthusiast, kinda learning stage...
+> 🧑‍💻 Third-year CS undergrad | 🛠️ Full-Stack, AI/ML & IoT Dev | 🚀 Always Exploring & Building
+
+---
 
 ## 🚀 Quick Facts
 
-- 20 ʏ/ᴏ [🇮🇳]
-- 🎓 B.Tech. Computer Science and Engineering at SRM Kattankulathur, Chennai
+- 🎓 B.Tech CSE @ SRM Kattankulathur, Chennai — CGPA: 9.4  
 - 🌍 Based in Gurgaon, Haryana, India
-- 💻 Preferred Languages: Python
+- 💬 Fluent in Python, C++, Java, JavaScript, Dart  
+- 🛠️ Dev Stack: React.js | Flutter | Node.js | SQL | IoT | GenAI  
+- 🧠 Interests: AI/ML, Cybersecurity, Full-Stack Dev, IoT  
+- 🏆 RedBull Basement | Enduraverse Finalist | SIH 2024 Qualifier  
 - 🔗 [madboy482.me](https://madboy482-portfolio.vercel.app/)
 
 <p align="center">
   <a href="https://github.com/madboy482">
-  <img src="https://komarev.com/ghpvc/?username=madboy482&label=Profile%20Views&theme=radical&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=madboy482&label=Profile%20Views&theme=radical&style=flat" alt="Profile Views"/>
   </a>
 </p>
 
 ---
 
 ## 🛠️ My Toolbox
-[![Tools](https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,react,nodejs,npm,tailwind,fastapi,django,tensorflow,flutter,redis,mongodb,postgres,mysql,firebase,aws,azure,heroku,vercel,git,gitlab,replit,visualstudio,vscode,pycharm,clion,eclipse,ubuntu,bash,powershell,arduino,atom&perline=10)](https://github.com/madboy482)
+
+[![Tools](https://skillicons.dev/icons?i=py,c,cpp,java,js,dart,html,css,react,flutter,nodejs,express,tailwind,fastapi,django,tensorflow,pytorch,opencv,mongodb,mysql,postgres,redis,firebase,aws,azure,heroku,vercel,git,vscode,pycharm,arduino,raspberrypi,bash&perline=11)](https://github.com/madboy482)
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Featured Projects & Showcase
+
+### 🔹 [RoomiePay](https://github.com/madboy482/RoomiePay) – Smart Expense Manager  
+> Full-stack app using React, MySQL, Python with monthly resets, admin-controlled invites, and dual-payment verification.
+
+### 🔹 [Emotion Detection](https://github.com/madboy482/EmotionDetectionCNN) – Facial Emotion Classifier  
+> EfficientNet + FER2013, OpenCV live inference, real-time visualization & optimization techniques.
+
+### 🔹 [VibeOut](https://github.com/madboy482/VibeOut-IoT) – Emotion-Based Workout Assistant  
+> ESP32 + MAX30102 + GenAI prompts with React dashboard & ThingSpeak IoT pipeline.
+
+### 🔹 [TaskVerse](https://github.com/madboy482/TaskVerse) – Task Manager Platform  
+> React + Node.js + MongoDB app with JWT auth and animated transitions.
+
+### 🔹 [AirMouse](https://github.com/madboy482/AirMouse) – Gesture Virtual Mouse  
+> Hand gesture detection via MediaPipe, mapped to OS-level cursor/keyboard actions.
+
+### 🧠 More Cool Projects:  
+[Fake News Detection](https://github.com/madboy482/FakeNewsDetection) | [SmartQueue](https://github.com/madboy482/SmartQueue) | [Scandroid](https://github.com/madboy482/Scandroid) | [FastForex](https://github.com/madboy482/FastForex)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/madboy482">
-  <img src="https://github-readme-stats.vercel.app/api?username=madboy482&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/madboy482">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madboy482&theme=radical&hide_border=false" alt="GitHub Streak" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/madboy482">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madboy482&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Lang" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=madboy482&theme=radical&include_all_commits=true&count_private=true&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madboy482&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madboy482&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -48,9 +65,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/madboy482">
-  <img src="https://github-profile-trophy.vercel.app/?username=madboy482&theme=radical&no-frame=false&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=madboy482&theme=radical&no-frame=false&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -60,19 +75,16 @@
 ```python
 class MadBoy:
     def __init__(self):
-        self.current_status = "Learning and Growing"
-        self.skills = ["Python", "Telegram Bots", "Web Development", "Java", "C", "C++"]
-        self.interests = ["AI", "Cybersecurity", "Open Source"]
+        self.status = "Leveling up 💻"
+        self.projects = ["IoT", "AI/ML", "React", "Flutter", "Full-stack"]
+        self.goals = ["Open Source", "Hackathons", "Portfolio Enhancement"]
 
-    def daily_routine(self):
+    def life(self):
         while True:
             self.code()
-            self.learn_new_things()
-            self.contribute_to_community()
-            if self.is_stuck():
-                self.debug()
-            else:
-                self.celebrate()
+            self.learn()
+            self.innovate()
+            self.debug()
 ```
 
 ---
@@ -82,7 +94,7 @@ class MadBoy:
 
 ---
 
-## 📬 Let's Connect!
+## 🌐 Connect With Me
 <a href="https://telegram.dog/Invictus_MadBoi" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/telegram.svg" /></a>
 <a href="https://instagram.com/_nalin_.482" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/instagram.svg" /></a> 
 <a href="https://www.linkedin.com/in/nalin-vijayvargiya/" class="padded"><img align="left" alt="madboy482" width="40px" src="./MadBoi/icon/linkedin.svg" /></a>

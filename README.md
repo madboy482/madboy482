@@ -8,9 +8,9 @@
 
 ## 🚀 Quick Facts
 
-- 🎓 B.Tech CSE @ SRM Kattankulathur, Chennai — CGPA: 9.4  
+- 🎓 B.Tech CSE @ SRM Kattankulathur, Chennai — CGPA: 9.5
 - 🌍 Based in Gurgaon, Haryana, India
-- 💬 Fluent in Python, C++, Java, JavaScript, Dart  
+- 💬 Fluent in Python, C++, JavaScript, Dart
 - 🛠️ Dev Stack: React.js | Flutter | Node.js | SQL | IoT | GenAI  
 - 🧠 Interests: AI/ML, Cybersecurity, Full-Stack Dev, IoT  
 - 🏆 RedBull Basement | Enduraverse Finalist | SIH 2024 and 2025 Qualifier  

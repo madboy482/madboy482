@@ -13,7 +13,7 @@
 - 💬 Fluent in Python, C++, Java, JavaScript, Dart  
 - 🛠️ Dev Stack: React.js | Flutter | Node.js | SQL | IoT | GenAI  
 - 🧠 Interests: AI/ML, Cybersecurity, Full-Stack Dev, IoT  
-- 🏆 RedBull Basement | Enduraverse Finalist | SIH 2024 Qualifier  
+- 🏆 RedBull Basement | Enduraverse Finalist | SIH 2024 and 2025 Qualifier  
 - 🔗 [madboy482.me](https://madboy482-portfolio.vercel.app/)
 
 <p align="center">
